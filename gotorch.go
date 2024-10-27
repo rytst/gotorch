@@ -1,8 +1,12 @@
 package gotorch
 
-import "fmt"
+import (
+)
 
-func Hello() {
-	fmt.Println("Hello, World!")
+
+/*
+* Variable data structure
+*/
+type Variable[T any] struct {
+    Data T
 }
-
