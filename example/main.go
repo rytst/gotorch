@@ -1,10 +1,9 @@
 package main
 
 import (
-    "fmt"
-    "github.com/gopherguides/greet"
+    "github.com/rytst/gotorch"
 )
 
 func main() {
-    Hello()
+    gotorch.Hello()
 }
