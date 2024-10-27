@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/rytst/gotorch"
+    . "github.com/rytst/gotorch"
 )
 
 func main() {
